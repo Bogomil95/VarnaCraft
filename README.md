@@ -1,2 +1,0 @@
-# VarnaCraft
-VarnaCraft
